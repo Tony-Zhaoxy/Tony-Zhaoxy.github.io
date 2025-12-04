@@ -7,9 +7,9 @@
 
 # Site Settings
 title                    : "Xiaoyang Zhao"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
-google_scholar_stats_use_cdn : true
+description              : "UCLA Mechanical Engineering graduate student working on UAVs, Robotics, and Manufacturing. "
+repository               : "Tony-Zhaoxy.github.io"
+google_scholar_stats_use_cdn : False
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiaoyang Zhao"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of California, Los Angeles"
+  bio              : "UCLA"
   location         : "Los Angeles, USA"
   employer         :
   pubmed           : 
