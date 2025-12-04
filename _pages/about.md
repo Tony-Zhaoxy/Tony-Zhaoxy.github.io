@@ -60,6 +60,10 @@ His current interests include unmanned aircraft design, robot vision, machine le
   **The University of Manchester**  
   B.Eng. (Hons) in Aerospace Engineering
 
+  - *2024.07 – 2024.09*  
+  **Xi'an Jiaotong University**  
+  Summer Research Assistant
+
 - *2021.09 – 2022.06*  
   **University of Bristol**  
   International Foundation Programme
