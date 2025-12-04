@@ -40,8 +40,6 @@ His current interests include unmanned aircraft design, robot vision, machine le
 - Developed and optimized double-layer dendritic channel designs for high-power lithium-ion battery cooling.
 - Performed CFD simulations in **ANSYS Fluent**, including thermal analysis and flow characterization.
 - Demonstrated improved temperature uniformity compared to serpentine and parallel layouts.
-- Conducted mesh refinement and convergence studies for validation.
-
 
 ### **Bionic Noise-Reduction Design for Axial Fan Impellers**  
 **Xiaoyang Zhao**, supervised by **Prof. Fuyin Ma**
@@ -50,13 +48,6 @@ His current interests include unmanned aircraft design, robot vision, machine le
 - Built CAD models in **SolidWorks** and generated high-quality meshes using **ICEM CFD**.
 - Performed DES turbulence simulations with **ANSYS Fluent**, followed by acoustic analysis with **Actran**.
 - Achieved **3.7% increase in airflow** and **2.3 dB noise reduction** after optimization.
-
-
-
-# 🎖 Honors and Awards
-
-- *2020.01*: People's Republic of China National First-Class Athlete, R/C Plane.
-- *2019.08*: Gold Medal, National R/C Plane Championship.
 
 # 📖 Educations
 
@@ -73,6 +64,10 @@ His current interests include unmanned aircraft design, robot vision, machine le
   **University of Bristol**  
   International Foundation Programme
 
+# 🎖 Honors and Awards
+
+- *2020.01*: People's Republic of China National First-Class Athlete, R/C Plane.
+- *2019.08*: Gold Medal, National R/C Plane Championship.
 
 # 💻 Internships
 
