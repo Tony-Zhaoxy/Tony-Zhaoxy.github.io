@@ -73,7 +73,7 @@ His current interests include unmanned aircraft design, robot vision, machine le
 
 - *2025.06 – 2025.09*, **SLB (Schlumberger)**, Shanghai — Mechanical Engineering Intern.
 
-# ✨ Hobbies & Interests
+# ✨ Hobbies and Interests
 
 Outside of engineering, I enjoy flying radio-controlled aircraft, especially competitive glider and fixed-wing models.  
 I also love traveling, landscape photography, and staying active through basketball and baseball.
