@@ -17,16 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Xiaoyang (Tony) Zhao is an M.S. student in Mechanical Engineering at UCLA, where he is a member of the Structures–Computer Interaction (SCI) Lab, working on agricultural robotics, UAV systems, and machine learning. He received his B.Eng. (Honours) in Aerospace Engineering from The University of Manchester, where he worked on UAV design, EV battery thermal management, and structural analysis.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+His experience spans UAV aerodynamics, ANSYS Fluent simulations, FEA-based structural analysis, and robotic system design, with hands-on involvement in competitions such as the BMFA Payload Challenge and the IMechE UAS Challenge. He previously interned as a Mechanical Engineer at SLB Qingpu Technology Center, contributing to simulation-driven design optimization for downhole engineering tools.
 
+His current interests include unmanned aircraft design, robot vision, machine learning, robotic manipulation, and advanced manufacturing technologies.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+- *2025.11*: Joined the **Structures–Computer Interaction (SCI) Lab** at UCLA.
+- *2025.09*: Started my M.S. in **Mechanical Engineering at UCLA (Samueli School of Engineering)**.
+- *2025.06*: Started a Mechanical Engineering internship at **SLB**, Shanghai
+- *2025.06*: Completed my B.Eng. (Honours) in **Aerospace Engineering** at The University of Manchester.
+
+
+# 🔬 Research
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -42,17 +47,33 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2020.01*: People's Republic of China National First-Class Athlete, R/C Plane.
+- *2019.08*: Gold Medal, National R/C Plane Championship.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2025.09 – 2027.06 (expected)*  
+  **University of California, Los Angeles (UCLA)**  
+  M.S. in Mechanical Engineering  
+  *Concentration: Design, Robotics, and Manufacturing*
+
+- *2022.09 – 2025.06*  
+  **The University of Manchester**  
+  B.Eng. (Hons) in Aerospace Engineering
+
+- *2021.09 – 2022.06*  
+  **University of Bristol**  
+  International Foundation Programme
+
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+- *2025.06 – 2025.09*, **SLB (Schlumberger)**, Shanghai — Mechanical Engineering Intern.
+
+# ✨ Hobbies & Interests
+
+Outside of engineering, I enjoy flying radio-controlled aircraft, especially competitive glider and fixed-wing models.  
+I also love traveling, landscape photography, and staying active through basketball and baseball.
